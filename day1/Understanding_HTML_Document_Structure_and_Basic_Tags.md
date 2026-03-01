@@ -160,7 +160,7 @@ Use <br> sparingly. It's typically suitable for breaking lines within a single b
 </p>
 ```
 ## Horizontal Rule: ``<hr>``
-The ```<hr>``tag represents a thematic break between paragraph-level elements. Visually, it typically renders as a horizontal line across the page, though its exact appearance can be styled with CSS. It's a self-closing tag.
+The ``<hr>``tag represents a thematic break between paragraph-level elements. Visually, it typically renders as a horizontal line across the page, though its exact appearance can be styled with CSS. It's a self-closing tag.
 
 ```html
 
